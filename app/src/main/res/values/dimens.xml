@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- dimens.xml -->
+
+<resources>
+<dimen name="card_radius">8dp</dimen>
+<dimen name="card_padding">16dp</dimen>
+<dimen name="card_margin_bottom">8dp</dimen>
+<dimen name="card_elevation">4dp</dimen>
+<dimen name="card_content_padding">8dp</dimen>
+<dimen name="note_title_text_size">16sp</dimen>
+</resources>

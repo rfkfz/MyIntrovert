@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFF</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="blue">#3E8ED0</color>
+    <color name="primary">#6A7CFF</color>
+    <color name="green">#00FF00</color>
+    <color name="primary_green">#48c88f</color>
+    <color name="primary_first" tools:ignore="ReferenceType">@drawable/bg_primary</color>
+    <color name="background">#F2F7FA</color>
+    <color name="primary_text">#565b65</color>
+    <color name="secondary_text">#989A9D</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="dashboard_item_1">#2CC2EA</color>
+    <color name="dashboard_item_2">#9932cc</color>
+    <color name="dashboard_item_3">#72A4FF</color>
+    <color name="dashboard_item_4">#8B72FF</color>
+
+</resources>
